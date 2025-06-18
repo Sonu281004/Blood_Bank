@@ -15,10 +15,3 @@ This is a fully responsive landing page built with **Next.js**, **Tailwind CSS**
 - Responsive FAQ section with expand/collapse animation
 - Mobile, Tablet, and Desktop responsive layouts
 
-## 📂 Folder Structure
-
--/components
--/pages
--/styles
--/package.json
--/README.md ✅
