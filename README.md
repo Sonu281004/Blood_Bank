@@ -17,8 +17,8 @@ This is a fully responsive landing page built with **Next.js**, **Tailwind CSS**
 
 ## 📂 Folder Structure
 
-/components
-/pages
-/styles
-/package.json
-/README.md ✅
+-/components
+-/pages
+-/styles
+-/package.json
+-/README.md ✅
